@@ -1,4 +1,4 @@
-# Timeseries of weekly population weighted average temperatures for 232 countries
+# Timeseries of weekly population weighted average temperatures anomalies by country
 
 Jonas Schöley. cc-by. Last updated: 2023-10-19
 
