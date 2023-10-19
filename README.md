@@ -33,8 +33,7 @@ Weekly population-weighted average temperature by country and year calculated fr
 ### strata
 
 - `region_iso`:
-  ISO 3166-1 alpha-2 country code when region is nation-state;
-  ISO 3166-2 region code when region is subdivision of nation-state
+  ISO 3166-1 alpha-2 country code
 - `year`:
   year as defined in ISO 8601 week date system
 - `week`:
@@ -44,16 +43,6 @@ Weekly population-weighted average temperature by country and year calculated fr
 
 - `region_name`:
   natural name of region
-- `region_level`:
-  0 for nation state / country level, 1 for subdivision
-- `country_iso`:
-  ISO 3166-1 alpha-2 country code
-- `country_name`:
-  natural name of country
-- `hemisphere`:
-  (n)orth or (s)outh
-- `continent`:
-  continent of region
 
 ### observations
 
