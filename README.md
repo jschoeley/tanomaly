@@ -1,12 +1,10 @@
-# Timeseries of weekly population weighted average temperatures anomalies by country
+# Timeseries of weekly population weighted average temperature anomalies by country
 
 Jonas Schöley. cc-by. Last updated: 2023-10-19
 
 ![](ass/cover.png)
 
 MOCY provides time series of weekly death counts stratified by country, sex, and age along with useful covariates such as person-weeks exposure time, population-weighted weekly temperature, and public holiday indicators.
-
-This repository contains the source files needed to compile the MOCY database. The compiled data is hosted at [osf.io/k84rz](https://osf.io/k84rz/).
 
 ## Sources
 
